@@ -11,7 +11,8 @@ class BMICalculator extends StatelessWidget {
         appBarTheme: AppBarTheme(
           titleTextStyle: TextStyle(
             color: Color(0xFFced4da),
-            fontSize: 25,
+            fontSize: 30,
+            fontWeight: FontWeight.bold,
           ),
           color: Color(0xFF212529),
         ),
