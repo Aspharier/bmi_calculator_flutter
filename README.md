@@ -6,11 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+In this project I Developed a Body mass index Calculator from scratch using Flutter Hope you like it :)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![BMI](https://github.com/Aspharier/bmi_calculator_flutter/assets/113495930/dc6dfca9-ef4e-4968-8557-df1811da7a23)
